@@ -1,0 +1,15 @@
+/Users/garretlanglois/Documents/GitHub/practice/async/bin/Debug/net9.0/async
+/Users/garretlanglois/Documents/GitHub/practice/async/bin/Debug/net9.0/async.deps.json
+/Users/garretlanglois/Documents/GitHub/practice/async/bin/Debug/net9.0/async.runtimeconfig.json
+/Users/garretlanglois/Documents/GitHub/practice/async/bin/Debug/net9.0/async.dll
+/Users/garretlanglois/Documents/GitHub/practice/async/bin/Debug/net9.0/async.pdb
+/Users/garretlanglois/Documents/GitHub/practice/async/obj/Debug/net9.0/async.GeneratedMSBuildEditorConfig.editorconfig
+/Users/garretlanglois/Documents/GitHub/practice/async/obj/Debug/net9.0/async.AssemblyInfoInputs.cache
+/Users/garretlanglois/Documents/GitHub/practice/async/obj/Debug/net9.0/async.AssemblyInfo.cs
+/Users/garretlanglois/Documents/GitHub/practice/async/obj/Debug/net9.0/async.csproj.CoreCompileInputs.cache
+/Users/garretlanglois/Documents/GitHub/practice/async/obj/Debug/net9.0/async.sourcelink.json
+/Users/garretlanglois/Documents/GitHub/practice/async/obj/Debug/net9.0/async.dll
+/Users/garretlanglois/Documents/GitHub/practice/async/obj/Debug/net9.0/refint/async.dll
+/Users/garretlanglois/Documents/GitHub/practice/async/obj/Debug/net9.0/async.pdb
+/Users/garretlanglois/Documents/GitHub/practice/async/obj/Debug/net9.0/async.genruntimeconfig.cache
+/Users/garretlanglois/Documents/GitHub/practice/async/obj/Debug/net9.0/ref/async.dll
