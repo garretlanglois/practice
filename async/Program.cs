@@ -9,6 +9,8 @@ When the main exits will it await the thread completion
 
 */
 
+const int PROCESSING_DELAY_MS = 1000;
+
 for (int i = 0; i < 1000; i++)
 {
     int capturedValue = i;
@@ -17,7 +19,7 @@ for (int i = 0; i < 1000; i++)
     MyThreadPool.QueueUserWorkItem(() =>
     {
         Console.WriteLine(capturedValue);
-        Thread.Sleep(1000);
+        Thread.Sleep(PROCESSING_DELAY_MS);
     });
 }
 
